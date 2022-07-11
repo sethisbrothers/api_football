@@ -9,7 +9,7 @@
     <li>
       <a href="# **RESTful API de gestion des statistiques des joueurs de foot  _avec Node.js et Express_**">Contexte du projet</a>
     </li>
-    <li><a href="## Technologies utilisées pour construire l'API">Techonologies utilisés</a></li>
+    <li><a href="## Technologies utilisées pour construire l'API">Technologies utilisés</a></li>
     <li><a href="### Packages installés">Packages installés</a></li>
     <li>
       <a href="## Fonctionnement de L'API">Utilisation de l'API sous Postman</a>
@@ -38,7 +38,7 @@ Dans le cadre de la digitalisation du système de gestion des statistiques des j
 - Site deployé sur [Heroku](https://dashboard.heroku.com/)
 
 ![images](ressources/heroku.png)
-## Technologies utilisées pour construire l'API:
+## Technologies utilisées pour construire l'API
 - NodeJS
 - Javascript
 - Express - Framework Web rapide, sans opinion et minimaliste pour  Node.js
