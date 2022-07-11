@@ -65,7 +65,7 @@ Dans le cadre de la digitalisation du système de gestion des statistiques des j
 `200` : *La requete a été exécuté avec succès*
 
 
-## Authors
+## Auteur
 
 - [@Sethibrothers](https://www.github.com/sethisbrothers)
 
