@@ -9,7 +9,7 @@
     <li>
       <a href="# **RESTful API de gestion des statistiques des joueurs de foot  _avec Node.js et Express_**">Contexte du projet</a>
     </li>
-    <li><a href="## Technologies utilisées pour construire l'API:">Techonologies utilisés</a></li>
+    <li><a href="## Technologies utilisées pour construire l'API">Techonologies utilisés</a></li>
     <li><a href="### Packages installés">Packages installés</a></li>
     <li>
       <a href="## Fonctionnement de L'API">Utilisation de l'API sous Postman</a>
