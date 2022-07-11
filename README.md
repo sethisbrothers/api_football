@@ -3,6 +3,30 @@
 
 
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="# **RESTful API de gestion des statistiques des joueurs de foot  _avec Node.js et Express_**">Contexte du projet</a>
+    </li>
+    <li><a href="## Technologies utilisées pour construire l'API:">Techonologies utilisés</a></li>
+    <li><a href="### Packages installés">Packages installés</a></li>
+    <li>
+      <a href="## Fonctionnement de L'API">Utilisation de l'API sous Postman</a>
+      <ul>
+        <li><a href="#route">Terminaison des liens</a></li>
+        <li><a href="## Signification des status">Signification des Status</a>
+          <ul>
+            <li><a href="### Erreur">Status d'erreur</a></li>
+            <li><a href="### Réussite">Status de réussite</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="## Auteur">Auteur</a></li>
+  </ol>
+</details>
+
 # **RESTful API de gestion des statistiques des joueurs de foot  _avec Node.js et Express_**
 
 Dans le cadre de la digitalisation du système de gestion des statistiques des joueurs, nous avons conçu une solution répondant aux critères de performance suivant: 
